@@ -1,0 +1,22 @@
+{
+  "name": "ui-selectableScroll",
+  "homepage": "https://github.com/karolyi/ui-selectableScroll",
+  "authors": [
+    "László Károlyi <laszlo@karolyi.hu>"
+  ],
+  "description": "An extended jQuery-ui selectable with scroll capabilities",
+  "main": "selectableScroll.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7",
+    "jquery-ui": ">=1.7"
+  }
+}
